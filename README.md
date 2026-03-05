@@ -1,3 +1,5 @@
+## Introduction
+
 This project demonstrates an automated AI workflow pipeline that integrates LLM reasoning, web search, data logging, and automated email delivery.
 
 The workflow processes a user query, enriches it with web information, generates AI insights, stores results in Google Sheets, and sends the final output via email.
